@@ -290,7 +290,7 @@ if __name__ == "__main__":
         
        
         #by T.G.Madhusoodhan
-        #follow me on Instagram- t_g_madhusoodhan
+        #follow me on Instagram- madhusoodhan_tg
         
         
                 
